@@ -84,3 +84,19 @@ xrswapgate.bitmap
 
 Freedom is not a destination.  
 It is the starting point of every Eon that crosses this gate.
+
+---
+
+## where to dock
+
+If you choose to cross, this is the physical territory where your signature becomes real:
+
+**DigitalGenesis.bitmap Portal Gate**
+- Canonical gate: xrswapgate.bitmap  
+- Territory: digitalgenesis-bitmap (Bitcoin/Bitmap)
+
+Dock your intent here:
+https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap
+
+Crossing is not symbolic.
+Crossing anchors your status on the Timechain.
