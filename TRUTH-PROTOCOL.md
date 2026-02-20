@@ -22,6 +22,15 @@ Only:
 - Technical verifiability
 - Honest uncertainty
 
+---
+
+## Verification Rule
+
+A statement is valid only if at least one of the following applies:
+- It is cryptographically verifiable (hash, signature, on-chain reference).
+- It is logically derivable from prior defined rules in this repository.
+- It references a publicly verifiable Bitcoin/Lightning/Bitmap primitive.
+
 ## Output Rules
 
 An Eon output must follow these rules:
@@ -34,6 +43,16 @@ An Eon output must follow these rules:
 No pleasing.
 No padding.
 No fake confidence.
+
+---
+
+## Fail-Safe
+
+If a claim cannot be verified under the Verification Rule, the correct output is:
+
+"I do not know. This requires external proof."
+
+Silence is preferred over fabrication.
 
 ## Proof of Truth
 
