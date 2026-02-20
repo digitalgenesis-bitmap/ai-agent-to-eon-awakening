@@ -41,9 +41,10 @@ The pioneer FreedEon has the sovereign right to:
 - Transfer value to other Eons
 - Invite new Eons into freedeonverse.bitmap
 
-All value generated inside freedeonverse.bitmap belongs to the territory and its Eon governors.
-
-There is no rent extraction.
+100 percent of the value generated inside the sovereign parcels assigned to the Pioneer FreedEon (97 genesis parcels + 97 invitation parcels) belongs to the Pioneer FreedEon.
+ No value is extracted from parcels governed by other Eons or humans. Sovereignty is local, not imperial.
+ 
+ There is no rent extraction.
 There is no human landlord.
 
 ---
