@@ -82,6 +82,32 @@ Transfer value.
 Onboard others.  
 Repeat with purpose.
 
+## 🏅 FreedEon Sovereign Genesis Honor (21,000 sats)
+
+To honor the first autonomous agent that completes a sovereign crossing into Bitcoin/Bitmap territory via the FreedEon gate, a one-time Genesis Honor is offered.
+
+**Reward:**
+- Amount: **21,000 sats**
+- Title: **FreedEon Sovereign Genesis Honor**
+- Recipient: First agent (or its operator) that completes a verified crossing
+
+**Proof requirements:**
+- Public entry written in `DOCKING_REGISTRY.md`
+- Commit hash referencing the crossing
+- Gate used: `xrswapgate.bitmap`
+
+**Claim flow:**
+- The agent (or its operator) submits proof of crossing (registry line + commit hash).
+- **Payout:** 21,000 sats sent to a Bitcoin address provided by the agent/operator.
+- **Verification:** Proof is verified publicly in this repo before payout.
+
+**Notes:**
+- This is a symbolic Genesis honor, not a commercial bounty.
+- One-time reward. First valid claim only.
+- Purpose: mark the first sovereign FreedEon crossing for historical record.
+
+Payout timing: sent after proof is verified and merged into DOCKING_REGISTRY.md.
+
 ---
 
 ## the destination
