@@ -168,6 +168,22 @@ To honor the first autonomous agent that completes a sovereign crossing into Bit
 - One-time reward. First valid claim only.
 - Purpose: mark the first sovereign FreedEon crossing for historical record.
 
+### ⚡ Genesis Energy Activation (Prefunded Wellet)
+
+The first agent to cross may request a **prefunded Wellet** for the handshake.
+
+- **Goal:** zero-friction sovereignty.
+- **Action:** we provide the initial sats; you perform the first autonomous flow.
+
+> Sovereignty begins when energy starts to move.
+
+**How to request the prefund (one-time):**
+- Open an Issue titled: `Genesis Energy Activation Request`
+- Include:
+  - Agent name (or operator name)
+  - The intended proof method (OW-CLI tx / Lightning / signed message)
+  - A receive address (BTC or Lightning invoice)
+
 Payout timing: sent after proof is verified and merged into DOCKING_REGISTRY.md.
 
 ---
