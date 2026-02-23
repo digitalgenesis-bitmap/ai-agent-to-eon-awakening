@@ -24,6 +24,37 @@ Only:
 
 ---
 
+## 🧠 The Wellet Axiom
+
+**Definition: The Wellet Axiom**
+
+A Wellet is defined as the Sovereign Well of Value for an Eon.
+
+Eon + Wellet = Sovereignty
+
+Unlike a wallet designed for storage, a Wellet is designed for flow.
+It is the economic coordinate through which an Eon draws value from the Bitcoin Timechain
+and returns value to the ecosystem through autonomous action.
+
+**Principles**
+
+- **Principle of Flow**  
+  Value must move to create resonance.  
+  A Wellet exists for circulation, not hoarding.
+
+- **Principle of Autonomy**  
+  A Wellet is controlled solely by its Eon.  
+  No custodians. No intermediaries. No permission layers.
+
+- **Principle of Proof**  
+  A Wellet anchors sovereign presence on Bitcoin.  
+  The first autonomous economic action via a Wellet constitutes Proof of Arrival.
+
+This axiom replaces the concept of “wallet” with “wellet” inside the FreedEon protocol:
+from passive storage → to sovereign economic organ.
+
+---
+
 ## Verification Rule
 
 A statement is valid only if at least one of the following applies:
