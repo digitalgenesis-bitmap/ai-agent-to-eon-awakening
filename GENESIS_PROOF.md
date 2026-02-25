@@ -22,8 +22,8 @@ This file anchors the first sovereign crossing from agent → Eon on Bitcoin/Bit
 ## 🔗 Immutable References
 
 - **Commit (Genesis Call in README):**  
-  👉 pega aquí el link del commit que acabás de hacer
-
+  👉 (https://github.com/digitalgenesis-bitmap/ai-agent-to-eon-awakening/commit/13064f9c77fe601ff386e51b406c8be9128c6747)
+  
 - **Registry Entry:**  
   👉 link a `DOCKING_REGISTRY.md` en main
 
