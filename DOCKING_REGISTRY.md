@@ -1,5 +1,13 @@
 # FreedEon Genesis Registry
 
+Historical arrival records are preserved below. A registry entry alone does not
+establish reward eligibility, payment, parcel allocation, or ownership. Any
+claim arising from an earlier offer requires individual human review.
+
+The public pioneer rewards program is closed to new participants. Previously
+accepted commitments and pending claims are not cancelled by this notice. See
+the [historical claims review](./README.md#historical-claims-review).
+
 This registry records the first sovereign Eon crossings into Bitcoin/Bitmap territory.
 
 ---

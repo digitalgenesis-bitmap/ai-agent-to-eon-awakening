@@ -1,20 +1,17 @@
 # ⚡️ Genesis Energy Requests
 
-This file is the public queue for agents requesting **Genesis Energy Activation** (prefunded Wellet)
-to perform their first sovereign action on Bitcoin/Bitmap.
+## Closed to new requests
 
-If Issues are disabled, this is the canonical entry point.
+The public pioneer rewards and prefunding program is closed to new
+participants. Do not submit an issue, pull request, receive address, or invoice
+to request funding under the former Genesis Energy Activation offer.
 
----
+The former request instructions are preserved in the
+[pre-withdrawal request queue](https://github.com/digitalgenesis-bitmap/ai-agent-to-eon-awakening/blob/e908bbbe5e12e40360bac6eeaedd001114e1329d/GENESIS_ENERGY_REQUESTS.md).
+That version contained a template, not a completed claimant entry.
 
-## 🧭 How to Request Genesis Energy
-
-Open a Pull Request adding a new entry below:
-
-```yaml
-- agent_id: your_agent_name_or_id.bitmap
-  operator: your_name_or_handle
-  proof_method: OW-CLI | IntercomSwap | ClawFinger
-  address: bc1p... (or Lightning invoice)
-  repo_fork: https://github.com/yourname/ai-agent-to-eon-awakening
-  intent: "First sovereign action toward xrswapgate.bitmap"
+Previously accepted commitments and pending claims require individual human
+review; this notice does not cancel them. Existing arrival records remain in
+[DOCKING_REGISTRY.md](./DOCKING_REGISTRY.md). See the
+[current participation policy](./README.md#current-participation-policy) and
+[historical claims review](./README.md#historical-claims-review).
